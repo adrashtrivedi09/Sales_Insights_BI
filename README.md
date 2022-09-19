@@ -1,6 +1,6 @@
 # Sales_Insights_BI
 
-insights into sales with Power BI
+Sales Insights Using Power BI
 
 I created a sales insight dashboard for a corporation to aid in the effective and interactive visualisation of data.
 
